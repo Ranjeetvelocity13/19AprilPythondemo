@@ -7,3 +7,5 @@ consloe.log("Hello")
 console.log("Hi")
 b=20
 print(a+b)
+
+console.log("Hi")
